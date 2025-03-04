@@ -1,4 +1,4 @@
-import "../app.css"
+import "../App.css"
 import Button from './button';
 
 const Profiledetails = ({ name, age, number, language }) =>{
