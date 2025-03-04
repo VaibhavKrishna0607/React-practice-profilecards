@@ -1,6 +1,6 @@
 import React from 'react';
 import Profiledetails from './components/profile.jsx'; 
-import './app.css';
+
 
 const profilesData = [
     { name: "Jon", age: 18, number: 7, language: "Java" },
